@@ -1,2 +1,3 @@
 # RikiMorty
-<img src = "https://github.com/ravshanmacos/Transfrom/blob/main/Resources/Transfrom_New_Version.png" width = "500" />
+<img src = "https://github.com/ravshanmacos/RikiMorty/SupportingFiles/ricky_morty.jpg" width = "500" />
+
